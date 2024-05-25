@@ -1,4 +1,4 @@
-# Zosh Food
+# feastify : Foodies-Arena
 
 1. **User:**
     - ID (Auto-generated)

@@ -6,7 +6,7 @@ export const uploadToCloudinary = async (pics) => {
       
       const data = new FormData();
       data.append("file", pics);
-      data.append("upload_preset", "zosh-social");
+      data.append("upload_preset", "feastify-social");
       data.append("cloud_name", "dcpesbd8q");
   
       const res = await 
