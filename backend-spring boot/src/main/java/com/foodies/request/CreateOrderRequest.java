@@ -1,0 +1,15 @@
+package com.foodies.request;
+
+import com.foodies.model.Address;
+
+import lombok.Data;
+
+@Data
+public class CreateOrderRequest {
+ 
+	private Long restaurantId;
+	
+	private Address deliveryAddress;
+	
+    
+}
